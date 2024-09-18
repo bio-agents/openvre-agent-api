@@ -1,0 +1,29 @@
+CHANGELOG:
+----------
+
+**********
+DD/MM/YYYY
+**********
+Author: WHO?
+
+- Change 1.
+- Change 2.
+
+- Change N.
+
+**********
+20/02/2020
+**********
+Author: Laura Rodriguez Navas
+
+- Version 0.1
+- Removed def __repr__(self) from Metadata class
+
+**********
+17/02/2020
+**********
+Author: Laura Rodriguez Navas
+
+- Version 0.1
+- removed taxon_id from metadata.py and jsonapp.py
+- updated README.md

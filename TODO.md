@@ -1,0 +1,5 @@
+- move demos to a demos folder
+- move examples to a specific folder
+- Add JSON parsing to app.py
+- Add logging to app.py
+- Change Agent inputs/outputs to dicts with roles
