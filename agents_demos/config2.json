@@ -1,27 +1,3 @@
-{"output_files": [
-    {"required": true,
-     "allow_multiple": true,
-     "name": "output",
-     "file": {
-         "file_type": "plainText",
-         "meta_data": {
-             "visible": true,
-             "agent": "Summer",
-             "description": "Output"},
-         "file_path": "/tmp/outputFile{}",
-         "data_type": "Number",
-         "compressed": "null"}}],
- "arguments": [],
- "input_files": [
-     {"required": true,
-      "allow_multiple": true,
-      "name": "number",
-      "value": "ID1"},
-     {"required": true,
-      "allow_multiple": true,
-      "name": "number",
-      "value": "ID2"},
-     {"required": true,
-      "allow_multiple": true,
-      "name": "number",
-      "value": "ID3"}]}
+version https://git-lfs.github.com/spec/v1
+oid sha256:83268fa34764e363e50c527e984cd50366106bdbac381709452eceacfebb7802
+size 718
